@@ -20,6 +20,7 @@
         $kids = array("Mike", "Dustin", "Will", "Lucas", "Max", "Eleven"); // Lengkapi di sini
         $adults = array("Hopper", "Nancy",  "Joyce", "Jonathan", "Murray"); 
         print_r($kids);
+        echo "<br>";
         print_r($adults);
 
         echo "<h3> Soal 2</h3>";
